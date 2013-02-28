@@ -1,4 +1,10 @@
 ABC
+<<<<<<< HEAD
 CDE
 DEF
 fEI
+=======
+EFG
+CDE
+j
+>>>>>>> remotes/origin/master
