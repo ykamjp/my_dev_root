@@ -1,0 +1,5 @@
+---exp_log
+1359724882.23
+Fri Feb 01 22:21:22 2013
+takeshi.watanabe
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/cos/COS50002/WD00_COS50002_UPER.fbx

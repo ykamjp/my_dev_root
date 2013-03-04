@@ -1,0 +1,6 @@
+---exp_log
+1359715718.2
+Fri Feb 01 19:48:38 2013
+takeshi.watanabe
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0100/mdl0100.fbx

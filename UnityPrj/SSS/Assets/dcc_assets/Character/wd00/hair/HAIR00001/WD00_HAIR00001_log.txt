@@ -1,0 +1,5 @@
+---exp_log
+1359468394.49
+Tue Jan 29 23:06:34 2013
+yusaku.kamekawa
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/hair/HAIR00001/WD00_HAIR00001.fbx

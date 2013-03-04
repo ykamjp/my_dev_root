@@ -1,0 +1,186 @@
+---exp_log
+1359374033.27
+Mon Jan 28 20:53:53 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0/mdl0000.fbx
+---exp_log
+1359374057.56
+Mon Jan 28 20:54:17 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0/mdl0000.fbx
+---exp_log
+1359374140.74
+Mon Jan 28 20:55:40 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0/mdl0000.fbx
+---exp_log
+1359374209.3
+Mon Jan 28 20:56:49 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0000/mdl0000.fbx
+---exp_log
+1359595326.74
+Thu Jan 31 10:22:06 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0001/mdl0001.fbx
+---exp_log
+1359698071.38
+Fri Feb 01 14:54:31 2013
+takeshi.watanabe
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0100/mdl0100.fbx
+---exp_log
+1359714797.55
+Fri Feb 01 19:33:17 2013
+yusaku.kamekawa
+Weapon
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/weapon/WEP_SRD00001/WD00_WEP_SRD00001.fbx
+---exp_log
+1359714938.84
+Fri Feb 01 19:35:38 2013
+yusaku.kamekawa
+Weapon
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/wep/WEP_SRD00001/WD00_WEP_SRD00001.fbx
+---exp_log
+1359715718.2
+Fri Feb 01 19:48:38 2013
+takeshi.watanabe
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0100/mdl0100.fbx
+---exp_log
+1359715960.7
+Fri Feb 01 19:52:40 2013
+takeshi.watanabe
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0101/mdl0101.fbx
+---exp_log
+1359719534.25
+Fri Feb 01 20:52:14 2013
+takeshi.watanabe
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0103/mdl0103.fbx
+---exp_log
+1359719575.22
+Fri Feb 01 20:52:55 2013
+takeshi.watanabe
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0103/mdl0103.fbx
+---exp_log
+1359719704.5
+Fri Feb 01 20:55:04 2013
+takeshi.watanabe
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0103/mdl0103.fbx
+---exp_log
+1359719823.24
+Fri Feb 01 20:57:03 2013
+takeshi.watanabe
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0103/mdl0103.fbx
+---exp_log
+1359720992.83
+Fri Feb 01 21:16:32 2013
+yusaku.kamekawa
+Weapon
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/wep/WEP_SRD00001/WD00_WEP_SRD00001.fbx
+---exp_log
+1359721113.17
+Fri Feb 01 21:18:33 2013
+yusaku.kamekawa
+Weapon
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/wep/WEP_SRD00001/WD00_WEP_SRD00001.fbx
+---exp_log
+1359721194.89
+Fri Feb 01 21:19:54 2013
+yusaku.kamekawa
+Weapon
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/wep/SRD00001/WD00_WEP_SRD00001.fbx
+---exp_log
+1359721243.34
+Fri Feb 01 21:20:43 2013
+yusaku.kamekawa
+Weapon
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/wep/WEP_SRD00001/WD00_WEP_SRD00001.fbx
+---exp_log
+1359956172.74
+Mon Feb 04 14:36:12 2013
+takeshi.watanabe
+Weapon
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/wep/WEP_LSD00001/WD00_WEP_LSD00001.fbx
+---exp_log
+1359956528.01
+Mon Feb 04 14:42:08 2013
+takeshi.watanabe
+Weapon
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/wep/WEP_LSD00002/WD00_WEP_LSD00002.fbx
+---exp_log
+1359956855.85
+Mon Feb 04 14:47:35 2013
+takeshi.watanabe
+Weapon
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/wep/WEP_LSD00003/WD00_WEP_LSD00003.fbx
+---exp_log
+1359967107.66
+Mon Feb 04 17:38:27 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0005/mdl0005.fbx
+---exp_log
+1359967171.62
+Mon Feb 04 17:39:31 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0005/mdl0005.fbx
+---exp_log
+1359967189.46
+Mon Feb 04 17:39:49 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0005/mdl0005.fbx
+---exp_log
+1359967231.04
+Mon Feb 04 17:40:31 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0005/mdl0005.fbx
+---exp_log
+1359967297.01
+Mon Feb 04 17:41:37 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0005/mdl0005.fbx
+---exp_log
+1359967315.92
+Mon Feb 04 17:41:55 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0005/mdl0005.fbx
+---exp_log
+1359967397.11
+Mon Feb 04 17:43:17 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0005/mdl0005.fbx
+---exp_log
+1359967430.8
+Mon Feb 04 17:43:50 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0005/mdl0005.fbx
+---exp_log
+1359968449.14
+Mon Feb 04 18:00:49 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0005/mdl0005.fbx
+---exp_log
+1359970817.1
+Mon Feb 04 18:40:17 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0005/mdl0005.fbx

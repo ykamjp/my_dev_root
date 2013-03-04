@@ -1,0 +1,25 @@
+---exp_log
+1359945317.72
+Mon Feb 04 11:35:17 2013
+yusaku.kamekawa
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/acc/ACC_WING00001/WD00_ACC_WING00001_ACC.fbx
+---exp_log
+1359945796.12
+Mon Feb 04 11:43:16 2013
+yusaku.kamekawa
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/acc/WING00001/WD00_ACC_WING00001_ACC.fbx
+---exp_log
+1359945862.2
+Mon Feb 04 11:44:22 2013
+yusaku.kamekawa
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/acc/ACC_WING00001/WD00_ACC_WING00001_ACC.fbx
+---exp_log
+1359946144.56
+Mon Feb 04 11:49:04 2013
+yusaku.kamekawa
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/acc/ACC_MANT00001/WD00_ACC_MANT00001_ACC.fbx
+---exp_log
+1359946189.28
+Mon Feb 04 11:49:49 2013
+yusaku.kamekawa
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/acc/ACC_MANT00001/WD00_ACC_MANT00001_ACC.fbx

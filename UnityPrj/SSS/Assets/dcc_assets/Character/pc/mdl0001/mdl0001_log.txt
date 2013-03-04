@@ -1,0 +1,6 @@
+---exp_log
+1359595326.74
+Thu Jan 31 10:22:06 2013
+yusaku.kamekawa
+Character
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/pc/mdl0001/mdl0001.fbx

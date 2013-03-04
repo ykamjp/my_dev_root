@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: 7644afc4eda43c34698538c432a7b3c7
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MOT_Head
+    100004: MOT_Hips
+    100006: MOT_L_Arm
+    100008: MOT_L_Foot
+    100010: MOT_L_ForeArm
+    100012: MOT_L_Hand
+    100014: MOT_L_Leg
+    100016: MOT_L_Shoulder
+    100018: MOT_L_ToeBase
+    100020: MOT_L_UpLeg
+    100022: MOT_Neck
+    100024: MOT_R_Arm
+    100026: MOT_R_Foot
+    100028: MOT_R_ForeArm
+    100030: MOT_R_Hand
+    100032: MOT_R_Leg
+    100034: MOT_R_Shoulder
+    100036: MOT_R_ToeBase
+    100038: MOT_R_UpLeg
+    100040: MOT_Spine1
+    100042: MOT_Spine4
+    400000: //RootNode
+    400002: MOT_Head
+    400004: MOT_Hips
+    400006: MOT_L_Arm
+    400008: MOT_L_Foot
+    400010: MOT_L_ForeArm
+    400012: MOT_L_Hand
+    400014: MOT_L_Leg
+    400016: MOT_L_Shoulder
+    400018: MOT_L_ToeBase
+    400020: MOT_L_UpLeg
+    400022: MOT_Neck
+    400024: MOT_R_Arm
+    400026: MOT_R_Foot
+    400028: MOT_R_ForeArm
+    400030: MOT_R_Hand
+    400032: MOT_R_Leg
+    400034: MOT_R_Shoulder
+    400036: MOT_R_ToeBase
+    400038: MOT_R_UpLeg
+    400040: MOT_Spine1
+    400042: MOT_Spine4
+    7400000: idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

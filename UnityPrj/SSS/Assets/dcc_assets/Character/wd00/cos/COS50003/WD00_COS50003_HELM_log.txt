@@ -1,0 +1,5 @@
+---exp_log
+1359970448.8
+Mon Feb 04 18:34:08 2013
+takeshi.watanabe
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/cos/COS50003/WD00_COS50003_HELM.fbx

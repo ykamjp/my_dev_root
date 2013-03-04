@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: a66526b453b594849b452518f6849388
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MOT_ACC1
+    100004: MOT_ACC2
+    100006: MOT_ACC3
+    100008: MOT_ACC_L_Wing1
+    100010: MOT_ACC_L_Wing2
+    100012: MOT_ACC_Mnt1
+    100014: MOT_ACC_Mnt2
+    100016: MOT_ACC_R_Wing1
+    100018: MOT_ACC_R_Wing2
+    100020: MOT_ACC_Tail1
+    100022: MOT_ACC_Tail2
+    100024: MOT_Head
+    100026: MOT_Hips
+    100028: MOT_L_Arm
+    100030: MOT_L_Foot
+    100032: MOT_L_ForeArm
+    100034: MOT_L_Hand
+    100036: MOT_L_Leg
+    100038: MOT_L_UpLeg
+    100040: MOT_LOWR_B
+    100042: MOT_LOWR_L
+    100044: MOT_LOWR_LB
+    100046: MOT_LOWR_R
+    100048: MOT_LOWR_RB
+    100050: MOT_R_Arm
+    100052: MOT_R_Foot
+    100054: MOT_R_ForeArm
+    100056: MOT_R_Hand
+    100058: MOT_R_Leg
+    100060: MOT_R_UpLeg
+    100062: MOT_Spine1
+    100064: Reference
+    100066: WGT_BODY3
+    400000: //RootNode
+    400002: MOT_ACC1
+    400004: MOT_ACC2
+    400006: MOT_ACC3
+    400008: MOT_ACC_L_Wing1
+    400010: MOT_ACC_L_Wing2
+    400012: MOT_ACC_Mnt1
+    400014: MOT_ACC_Mnt2
+    400016: MOT_ACC_R_Wing1
+    400018: MOT_ACC_R_Wing2
+    400020: MOT_ACC_Tail1
+    400022: MOT_ACC_Tail2
+    400024: MOT_Head
+    400026: MOT_Hips
+    400028: MOT_L_Arm
+    400030: MOT_L_Foot
+    400032: MOT_L_ForeArm
+    400034: MOT_L_Hand
+    400036: MOT_L_Leg
+    400038: MOT_L_UpLeg
+    400040: MOT_LOWR_B
+    400042: MOT_LOWR_L
+    400044: MOT_LOWR_LB
+    400046: MOT_LOWR_R
+    400048: MOT_LOWR_RB
+    400050: MOT_R_Arm
+    400052: MOT_R_Foot
+    400054: MOT_R_ForeArm
+    400056: MOT_R_Hand
+    400058: MOT_R_Leg
+    400060: MOT_R_UpLeg
+    400062: MOT_Spine1
+    400064: Reference
+    400066: WGT_BODY3
+    4300000: WGT_BODY3
+    9500000: //RootNode
+    13700000: WGT_BODY3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

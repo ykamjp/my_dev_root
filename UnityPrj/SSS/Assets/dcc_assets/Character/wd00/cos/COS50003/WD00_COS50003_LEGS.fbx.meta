@@ -1,0 +1,78 @@
+fileFormatVersion: 2
+guid: fff1b8c348f392342a781f696235faec
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: _LEGS
+    100002: MOT_Hips
+    100004: MOT_L_Foot
+    100006: MOT_L_Leg
+    100008: MOT_L_UpLeg
+    100010: MOT_R_Foot
+    100012: MOT_R_Leg
+    100014: MOT_R_UpLeg
+    100016: Reference
+    100018: //RootNode
+    400000: _LEGS
+    400002: MOT_Hips
+    400004: MOT_L_Foot
+    400006: MOT_L_Leg
+    400008: MOT_L_UpLeg
+    400010: MOT_R_Foot
+    400012: MOT_R_Leg
+    400014: MOT_R_UpLeg
+    400016: Reference
+    400018: //RootNode
+    4300000: _LEGS
+    9500000: //RootNode
+    13700000: _LEGS
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

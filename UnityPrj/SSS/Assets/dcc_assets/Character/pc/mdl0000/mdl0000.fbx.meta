@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 9c137f068aea4714ea9d892fe7d8d554
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: _ARMS
+    100002: _HELM
+    100004: _LEGS
+    100006: _LOWR
+    100008: _UPER
+    100010: //RootNode
+    100012: MOT_Acc1
+    100014: MOT_Acc2
+    100016: MOT_Acc3
+    100018: MOT_Head
+    100020: MOT_Hips
+    100022: MOT_L_Arm
+    100024: MOT_L_Foot
+    100026: MOT_L_ForeArm
+    100028: MOT_L_Hand
+    100030: MOT_L_Leg
+    100032: MOT_L_UpLeg
+    100034: MOT_LOWR_F
+    100036: MOT_LOWR_L
+    100038: MOT_LOWR_LB
+    100040: MOT_LOWR_R
+    100042: MOT_LOWR_RB
+    100044: MOT_R_Arm
+    100046: MOT_R_Foot
+    100048: MOT_R_ForeArm
+    100050: MOT_R_Hand
+    100052: MOT_R_Leg
+    100054: MOT_R_UpLeg
+    100056: MOT_Spine1
+    100058: Reference
+    100060: WGT_BODY3
+    100062: WGT_BODY5
+    400000: _ARMS
+    400002: _HELM
+    400004: _LEGS
+    400006: _LOWR
+    400008: _UPER
+    400010: //RootNode
+    400012: MOT_Acc1
+    400014: MOT_Acc2
+    400016: MOT_Acc3
+    400018: MOT_Head
+    400020: MOT_Hips
+    400022: MOT_L_Arm
+    400024: MOT_L_Foot
+    400026: MOT_L_ForeArm
+    400028: MOT_L_Hand
+    400030: MOT_L_Leg
+    400032: MOT_L_UpLeg
+    400034: MOT_LOWR_F
+    400036: MOT_LOWR_L
+    400038: MOT_LOWR_LB
+    400040: MOT_LOWR_R
+    400042: MOT_LOWR_RB
+    400044: MOT_R_Arm
+    400046: MOT_R_Foot
+    400048: MOT_R_ForeArm
+    400050: MOT_R_Hand
+    400052: MOT_R_Leg
+    400054: MOT_R_UpLeg
+    400056: MOT_Spine1
+    400058: Reference
+    400060: WGT_BODY3
+    400062: WGT_BODY5
+    2300000: WGT_BODY5
+    3300000: WGT_BODY5
+    4300000: WGT_BODY3
+    4300002: _UPER
+    4300004: _LEGS
+    4300006: WGT_BODY5
+    4300008: _ARMS
+    4300010: _LOWR
+    4300012: _HELM
+    9500000: //RootNode
+    13700000: _ARMS
+    13700002: _HELM
+    13700004: _LEGS
+    13700006: _LOWR
+    13700008: _UPER
+    13700010: WGT_BODY3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

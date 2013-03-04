@@ -1,0 +1,45 @@
+---exp_log
+1359707938.7
+Fri Feb 01 17:38:58 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_D.png
+---exp_log
+1359708021.73
+Fri Feb 01 17:40:21 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_D.png
+---exp_log
+1359708422.83
+Fri Feb 01 17:47:02 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skinbase.png
+---exp_log
+1359710879.11
+Fri Feb 01 18:27:59 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skinbase.png
+---exp_log
+1359712037.32
+Fri Feb 01 18:47:17 2013
+takeshi.watanabe
+C:/Users/takeshi.watanabe/My_works/creative_center/sunrise/AVATER/AVATER_FourBodies/sourceimages/base_mx0100.png
+---exp_log
+1359715765.29
+Fri Feb 01 19:49:25 2013
+takeshi.watanabe
+C:/Users/takeshi.watanabe/My_works/creative_center/sunrise/AVATER/AVATER_FourBodies/sourceimages/base_mx0100.png
+---exp_log
+1359719935.67
+Fri Feb 01 20:58:55 2013
+takeshi.watanabe
+C:/Users/takeshi.watanabe/My_works/creative_center/sunrise/AVATER/AVATER_TwoBodies/sourceimages/base_mx0102.png
+---exp_log
+1359720847.71
+Fri Feb 01 21:14:07 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/AVATER_TwoPointFiveBodies/sourceimages/base_mx0101.png
+---exp_log
+1359721731.1
+Fri Feb 01 21:28:51 2013
+takeshi.watanabe
+C:/Users/takeshi.watanabe/My_works/creative_center/sunrise/AVATER/AVATER_TwoPointFiveBodies/sourceimages/base_mx0101.png

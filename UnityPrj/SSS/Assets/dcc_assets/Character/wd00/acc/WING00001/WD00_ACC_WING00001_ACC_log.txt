@@ -1,0 +1,5 @@
+---exp_log
+1359945796.12
+Mon Feb 04 11:43:16 2013
+yusaku.kamekawa
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/acc/WING00001/WD00_ACC_WING00001_ACC.fbx

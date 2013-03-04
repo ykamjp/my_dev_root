@@ -1,0 +1,5 @@
+---exp_log
+1359952408.01
+Mon Feb 04 13:33:28 2013
+takeshi.watanabe
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/face/FAC50001/WD00_FAC50001.png

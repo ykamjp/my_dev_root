@@ -1,0 +1,6 @@
+---exp_log
+1359956855.85
+Mon Feb 04 14:47:35 2013
+takeshi.watanabe
+Weapon
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/wep/WEP_LSD00003/WD00_WEP_LSD00003.fbx

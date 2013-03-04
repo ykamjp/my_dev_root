@@ -1,0 +1,105 @@
+---exp_log
+1359632590.93
+Thu Jan 31 20:43:10 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_face.png
+---exp_log
+1359633001.25
+Thu Jan 31 20:50:01 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_face.png
+---exp_log
+1359636652.61
+Thu Jan 31 21:50:52 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_D.png
+---exp_log
+1359636699.61
+Thu Jan 31 21:51:39 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_D.png
+---exp_log
+1359693645.98
+Fri Feb 01 13:40:45 2013
+takeshi.watanabe
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/face/FAC00001/WD00_FAC00001.png
+---exp_log
+1359694254.29
+Fri Feb 01 13:50:54 2013
+takeshi.watanabe
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/face/FAC00001/WD00_FAC00001.png
+---exp_log
+1359705525.52
+Fri Feb 01 16:58:45 2013
+takeshi.watanabe
+C:/Users/takeshi.watanabe/My_works/creative_center/sunrise/AVATER/AVATER_FourBodies/sourceimages/inner_mx0100.png
+---exp_log
+1359708489.94
+Fri Feb 01 17:48:09 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_D.png
+---exp_log
+1359708872.76
+Fri Feb 01 17:54:32 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_D.png
+---exp_log
+1359708920.7
+Fri Feb 01 17:55:20 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_D.png
+---exp_log
+1359708958.48
+Fri Feb 01 17:55:58 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_D.png
+---exp_log
+1359709711.99
+Fri Feb 01 18:08:31 2013
+yusaku.kamekawa
+C:/WORKS/MAYA/Practice/sourceimages/skin_D.png
+---exp_log
+1359711367.14
+Fri Feb 01 18:36:07 2013
+takeshi.watanabe
+C:/Users/takeshi.watanabe/My_works/creative_center/sunrise/AVATER/AVATER_FourBodies/sourceimages/inner_mx0100.png
+---exp_log
+1359711395.55
+Fri Feb 01 18:36:35 2013
+takeshi.watanabe
+C:/Users/takeshi.watanabe/My_works/creative_center/sunrise/AVATER/AVATER_FourBodies/sourceimages/inner_mx0100.png
+---exp_log
+1359715789.13
+Fri Feb 01 19:49:49 2013
+takeshi.watanabe
+C:/Users/takeshi.watanabe/My_works/creative_center/sunrise/AVATER/AVATER_FourBodies/sourceimages/inner_mx0100.png
+---exp_log
+1359718842.27
+Fri Feb 01 20:40:42 2013
+takeshi.watanabe
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/face/FAC50002/WD00_FAC50002.png
+---exp_log
+1359719970.49
+Fri Feb 01 20:59:30 2013
+takeshi.watanabe
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/face/FAC50003/WD00_FAC50003.png
+---exp_log
+1359720011.78
+Fri Feb 01 21:00:11 2013
+takeshi.watanabe
+C:/Users/takeshi.watanabe/My_works/creative_center/sunrise/AVATER/AVATER_TwoBodies/sourceimages/inner_mx0102.png
+---exp_log
+1359721648.11
+Fri Feb 01 21:27:28 2013
+takeshi.watanabe
+C:/Users/takeshi.watanabe/My_works/creative_center/sunrise/AVATER/AVATER_TwoPointFiveBodies/sourceimages/inner_mx0101.png
+---exp_log
+1359721687.98
+Fri Feb 01 21:28:07 2013
+takeshi.watanabe
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/face/FAC50002/WD00_FAC50002.png
+---exp_log
+1359952408.01
+Mon Feb 04 13:33:28 2013
+takeshi.watanabe
+//fsv01/20_prj/2260_HAZE/20_all/03_Sunrise/Asset_src_data/SRC_GR_PRJ_Sunrise/gamedata/dcc_assets/character/WD00/face/FAC50001/WD00_FAC50001.png
