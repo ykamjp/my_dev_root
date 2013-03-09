@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{B761A0C2-538D-562E-942C-389A1924BB0D}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_STANDALONE;ENABLE_MICROPHONE;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;ENABLE_AUDIO_FMOD;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PHYSICS;ENABLE_TERRAIN;ENABLE_CACHING;ENABLE_SUBSTANCE;ENABLE_GENERICS;ENABLE_CLOTH;ENABLE_MOVIES;ENABLE_AUDIO;ENABLE_WWW;ENABLE_SHADOWS;ENABLE_DUCK_TYPING;UNITY_4_0_1;UNITY_4_0;UNITY_STANDALONE_WIN;ENABLE_PROFILER;UNITY_EDITOR</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\ComboBox.cs" />
+     <Compile Include="Assets\Scripts\ComboBoxTest.cs" />
+     <Compile Include="Assets\Scripts\test_gui.cs" />
+     <None Include="Assets\Resources\Character\wd00\acc\ACC_WING00001\WD00_ACC_WING00001_ACC_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS00001\WD00_COS00001_LEGS_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50002\WD00_COS50002_UPER_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\inner\INN50002\WD00_INN50002_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50001\WD00_COS50001_LEGS_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50003\WD00_COS50003_ARMS_log.txt" />
+     <None Include="Assets\Resources\Character\pc\mdl0100\mdl0100_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\skin\SKIN00001\WD00_SKIN00001_RED_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50002\WD00_COS50002_LOWR_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50001\WD00_COS50001_HELM_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50001\WD00_COS50001_UPER_log.txt" />
+     <None Include="Assets\Resources\Log\fac_log.txt" />
+     <None Include="Assets\StrumpyShaderEditor\Editor\Resources\Internal\Temp\TempShader.shader" />
+     <None Include="Assets\Resources\Character\wd00\inner\INN00002\WD00_INN00002_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\hair\HAIR00001\WD00_HAIR00001_log.txt" />
+     <None Include="Assets\Resources\Character\pc\mdl0005\mdl0005_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50002\WD00_COS50002_LEGS_log.txt" />
+     <None Include="Assets\Resources\Character\pc\mdl0000\mdl0000_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50003\WD00_COS50003_UPER_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\face\FAC50001\WD00_FAC50001_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\skin\SKIN50003\WD00_SKIN50003_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\skin\SKIN50002\WD00_SKIN50002_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50003\WD00_COS50003_LOWR_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\inner\INN00002\WD00_INN00002_BRN_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS00001\WD00_COS00001_ARMS_log.txt" />
+     <None Include="Assets\Resources\Character\pc\mdl0001\mdl0001_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS00001\WD00_COS00001_HELM_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\face\FAC50003\WD00_FAC50003_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50002\WD00_COS50002_HELM_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\face\FAC50002\WD00_FAC50002_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\wep\WEP_LSD00002\WD00_WEP_LSD00002_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50002\WD00_COS50002_ARMS_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS00001\WD00_COS00001_UPER_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\wep\WEP_LSD00001\WD00_WEP_LSD00001_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS00001\WD00_COS00001_LOWR_log.txt" />
+     <None Include="Assets\Resources\Log\char_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50003\WD00_COS50003_HELM_log.txt" />
+     <None Include="Assets\Resources\Character\pc\mdl0101\mdl0101_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\acc\WING00001\WD00_ACC_WING00001_ACC_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\acc\ACC_MANT00001\WD00_ACC_MANT00001_ACC_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50001\WD00_COS50001_ARMS_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\inner\INN50001\WD00_INN50001_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50003\WD00_COS50003_LEGS_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\skin\SKIN00001\WD00_SKIN00001_log.txt" />
+     <None Include="Assets\Resources\Log\cos_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\inner\INN50003\WD00_INN50003_log.txt" />
+     <None Include="Assets\Resources\Character\pc\mdl0103\mdl0103_log.txt" />
+     <None Include="Assets\Resources\Log\skin_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\wep\WEP_LSD00003\WD00_WEP_LSD00003_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\skin\SKIN50001\WD00_SKIN50001_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\wep\WEP_SRD00001\WD00_WEP_SRD00001_log.txt" />
+     <None Include="Assets\Resources\Character\wd00\cos\COS50001\WD00_COS50001_LOWR_log.txt" />
+     <None Include="Assets\Resources\Log\acc_log.txt" />
+     <None Include="Assets\StrumpyShaderEditor\Editor\Resources\Internal\TextureCopy.shader" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
